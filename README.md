@@ -1,2 +1,3 @@
-# python-_Practice
-python practice  in vscode 
+# python basics 
+
+daily tuts
